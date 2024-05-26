@@ -2,3 +2,6 @@ Latte
 Pane
 biscotti
 fagioli
+pesce
+carne
+fazzoletti
