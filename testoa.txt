@@ -11,4 +11,6 @@ banane
 ciliegie
 patate
 peperoni
+gnocchi
+piselli
 
