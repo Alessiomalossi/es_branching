@@ -10,4 +10,5 @@ pere
 banane
 ciliegie
 patate
+peperoni
 
