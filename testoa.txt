@@ -12,5 +12,5 @@ ciliegie
 patate
 peperoni
 gnocchi
-piselli
+lumache
 
