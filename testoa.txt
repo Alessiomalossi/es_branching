@@ -6,3 +6,4 @@ pesce
 carne
 fazzoletti
 modifiche da hotfix
+pere
